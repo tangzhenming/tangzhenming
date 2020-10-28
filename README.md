@@ -1,4 +1,23 @@
-### Hi there 👋
+# 👨‍💻 Tang Zhenming
+
+## 👋 Hi
+
+My name is Tang Zhenming.
+
+[![Tang Zhenming's github stats](https://github-readme-stats.vercel.app/api?username=tangzhenming)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![HTML](https://img.shields.io/badge/-HTML-red)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+
+### Technologies
+
+![Vue](https://img.shields.io/badge/-Vue-brightgreen)
+![element-ui](https://img.shields.io/badge/-element--ui-brightgreen)
+
 
 <!--
 **tangzhenming/tangzhenming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
