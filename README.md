@@ -1,8 +1,6 @@
 # 👨‍💻 Tang Zhenming
 
-## 👋 Hi
-
-My name is Tang Zhenming.
+## 👋 Hi there
 
 [![Tang Zhenming's github stats](https://github-readme-stats.vercel.app/api?username=tangzhenming&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
