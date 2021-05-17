@@ -13,11 +13,6 @@ My name is Tang Zhenming.
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 
-### Technologies
-
-![Vue](https://img.shields.io/badge/-Vue-brightgreen)
-![element-ui](https://img.shields.io/badge/-element--ui-brightgreen)
-
 
 <!--
 **tangzhenming/tangzhenming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
