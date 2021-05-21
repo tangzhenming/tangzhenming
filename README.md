@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-[![Tang Zhenming's github stats](https://github-readme-stats.vercel.app/api?username=tangzhenming&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tang Zhenming's github stats](https://github-readme-stats.vercel.app/api?username=tangzhenming&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
